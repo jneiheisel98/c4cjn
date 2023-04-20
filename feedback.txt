@@ -1,0 +1,17 @@
+Your solution is fine. Although your longestCount is 
+more complex than necessary.  (I found it a bit hard 
+to follow, although I can see what your high-level 
+approach was.) 
+
+I wonder if there is a way to add some abstraction to 
+that algorithm?
+
+Overall, nice work.
+
+(m)
+
+
+=============
+Very thorough.  Nice.
+
+Don't forget to test that your program handles invalid input.
